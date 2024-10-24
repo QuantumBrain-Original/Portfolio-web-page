@@ -1,6 +1,4 @@
-<body style="background-color: #101010"></body>
-
-<img src="https://github.com/user-attachments/assets/57a7e4e6-0ac0-4809-9ea7-d630be25ccbb" class="background" style="min-height: 50%; min-width: 50%; width: 100%; height: auto; position: fixed; top: 0; left: 0;"></img>
+<body style="background-color: #101010; background-image: url(https://github.com/user-attachments/assets/57a7e4e6-0ac0-4809-9ea7-d630be25ccbb);">
 
 <span style="color: #a0ff30;font-weight: bold;font-size: 36px"> **There is no limit to perfection!** | **Нет предела совершенству!**</span>
 
